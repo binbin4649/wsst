@@ -1,0 +1,73 @@
+html {
+    margin-top: 0px;
+}
+
+/* baserCMS THEME [bootstrap4] style.css */
+
+.message {
+	position: relative;
+	padding: .75rem 1.25rem;
+	margin-bottom: 1rem;
+	border: 1px solid transparent;
+	border-radius: .25rem;
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+}
+
+.alert-message {
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+}
+
+.error-message {
+	color: pink;
+}
+
+.notice-message {
+	color: #0c5460;
+	background-color: #d1ecf1;
+	border-color: #bee5eb;
+}
+
+/* WWST */
+
+.jumbotron-extend {
+	position: relative;
+	background: 
+		url(/app/webroot/theme/wss/img/model-1.png) center bottom no-repeat,
+		url(/app/webroot/theme/wss/img/bath-2.jpg) center center no-repeat;
+    background-size: 65vh, cover;
+    height: 65vh;
+    min-height: 300px;
+}
+
+.btn-e {
+	border-radius: 0;
+}
+
+.btn-black {
+    border-radius: 0;
+    background-color: #000;
+    color: #fff;
+}
+.btn-black:hover {
+     background-color: #fff;
+     color: #000;
+}
+
+.top-title {
+	font-size: 3.4rem;
+    font-weight: 300;
+    line-height: 1.1;
+}
+
+.font09 {
+	font-size: 0.9rem;
+}
+
+.status-header{
+	font-size: 0.8rem;
+	color:gray;
+}

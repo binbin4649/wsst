@@ -1,0 +1,543 @@
+"id","contents","draft","page_template","code","modified","created"
+"1","<div class=""mb-4 p-3"">
+	<h1 class=""h2"">モーニングコールサービスです。</h1>
+	<p>モーニングコールセンターは電話をかけて起こす、モーニングコールサービスです。<br>
+		朝起きれない。二度寝してしまう。そんな方におすすめ。<br>
+		起きないと上司、母親に電話で連絡する昨日もあり、緊張感のある朝を迎えられます。
+	</p>
+	<?php echo $this->BcBaser->link( '無料お試し', '/members/mypages/signup', ['class'=>'btn btn-primary btn-e', 'role'=>'button']);?>
+</div>
+
+<div class=""row"">
+	<div class=""col-md-4 mb-3"">
+		<div class=""card"">
+			<img class=""card-img-top"" src=""https://placehold.jp/286x180.png"">
+			<div class=""card-body"">
+				<h5 class=""card-title"">Card title</h5>
+				<p class=""card-text"">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<a href=""#"" class=""btn btn-primary btn-e"">Go somewhere</a>
+			</div>
+		</div>
+	</div>
+	<div class=""col-md-4 mb-3"">
+		<div class=""card"">
+			<img class=""card-img-top"" src=""https://placehold.jp/286x180.png"">
+			<div class=""card-body"">
+				<h5 class=""card-title"">Card title</h5>
+				<p class=""card-text"">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<a href=""#"" class=""btn btn-primary btn-e"">Go somewhere</a>
+			</div>
+		</div>
+	</div>
+	<div class=""col-md-4 mb-3"">
+		<div class=""card"">
+			<img class=""card-img-top"" src=""https://placehold.jp/286x180.png"">
+			<div class=""card-body"">
+				<h5 class=""card-title"">Card title</h5>
+				<p class=""card-text"">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+				<a href=""#"" class=""btn btn-primary btn-e"">Go somewhere</a>
+			</div>
+		</div>
+	</div>
+</div>","","","","2018-05-18 16:53:44","2015-06-26 20:34:06"
+"2","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">使い方・操作方法</h1>
+
+<div class=""container"">
+	<div class=""mb-3 mx-sm-2 mb-3 mb-md-5"">
+	<ul>
+		<li><a href=""#step1"">使い方1</a></li>
+		<li><a href=""#step2"">使い方2</a></li>
+		<li><a href=""#step3"">使い方3</a></li>
+		<li><a href=""#step4"">使い方4</a></li>
+	</ul>
+	</div>
+	<div class=""mb-3 mx-sm-2 mb-3 mb-md-4"">
+		<h2 class=""h5"" id=""step1"">使い方1</h2>
+		<p>使い方を詳しく説明するその1。使い方を詳しく説明するその1。使い方を詳しく説明するその1。使い方を詳しく説明するその1。使い方を詳しく説明するその1。使い方を詳しく説明するその1。</p>
+	</div>
+	<div class=""mb-3 mx-sm-2 mb-3 mb-md-4"">
+		<h2 class=""h5"" id=""step2"">使い方2</h2>
+		<p>使い方を詳しく説明するその2。使い方を詳しく説明するその2。使い方を詳しく説明するその2。使い方を詳しく説明するその2。使い方を詳しく説明するその2。</p>
+	</div>
+	<div class=""mb-3 mx-sm-2 mb-3 mb-md-4"">
+		<h2 class=""h5"" id=""step3"">使い方3</h2>
+		<p>使い方を詳しく説明するその3。使い方を詳しく説明するその3。使い方を詳しく説明するその3。使い方を詳しく説明するその3。使い方を詳しく説明するその3。使い方を詳しく説明するその3。</p>
+	</div>
+	<div class=""mb-3 mx-sm-2 mb-3 mb-md-4"">
+		<h2 class=""h5"" id=""step4"">使い方4</h2>
+		<p>使い方を詳しく説明するその4。</p>
+	</div>
+</div>","","","","2018-05-18 16:53:44","2015-06-26 20:34:06"
+"3","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">サービス1</h1>
+
+<div class=""container"">
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+</div>","","","","2018-05-18 16:53:46","2015-06-26 20:34:06"
+"4","<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""> <span style=""color:white;"">メインメニュー</span> </div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<span style=""color:#8ABE08"">■</span>
+<?php $this->BcBaser->link(""ニュースリリース"",array(""controller""=>""news"",""action""=>""index"")) ?>
+<br />
+<span style=""color:#8ABE08"">■</span>
+<?php $this->BcBaser->link(""お問い合わせ"",array(""controller""=>""contact"",""action""=>""index"")) ?>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""> <span style=""color:white;"">NEWS RELEASE</span> </div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<?php $this->BcBaser->blogPosts('news', 5) ?> <div>&nbsp;</div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<div style=""text-align:center;background-color:#8ABE08;""> <span style=""color:white;"">baserCMS NEWS</span> </div>
+<hr size=""1"" style=""width:100%;height:1px;margin:2px 0;padding:0;color:#CCCCCC;background:#CCCCCC;border:1px solid #CCCCCC;"" />
+<?php $this->BcBaser->feed(1) ?>","","","","","2015-06-26 20:34:06"
+"5","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">ご利用料金</h1>
+
+<div class=""container"">
+	<p class=""mb-3 mb-md-4"">
+		Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.
+	</p>
+	<div class=""card-deck mb-3 text-center"">
+		<div class=""card mb-4 box-shadow"">
+			<div class=""card-header"">
+				<h4 class=""my-0 font-weight-normal"">Free</h4>
+			</div>
+			<div class=""card-body"">
+				<h1 class=""card-title pricing-card-title"">$0 <small class=""text-muted"">/ mo</small></h1>
+				<ul class=""list-unstyled mt-3 mb-4"">
+					<li>10 users included</li>
+					<li>2 GB of storage</li>
+					<li>Email support</li>
+					<li>Help center access</li>
+				</ul>
+				<button type=""button"" class=""btn btn-lg btn-block btn-outline-primary btn-e"">Sign up for free</button>
+			</div>
+		</div>
+		<div class=""card mb-4 box-shadow"">
+			<div class=""card-header"">
+				<h4 class=""my-0 font-weight-normal"">Pro</h4>
+			</div>
+			<div class=""card-body"">
+				<h1 class=""card-title pricing-card-title"">$15 <small class=""text-muted"">/ mo</small></h1>
+				<ul class=""list-unstyled mt-3 mb-4"">
+					<li>20 users included</li>
+					<li>10 GB of storage</li>
+					<li>Priority email support</li>
+					<li>Help center access</li>
+				</ul>
+				<button type=""button"" class=""btn btn-lg btn-block btn-primary btn-e"">Get started</button>
+			</div>
+		</div>
+		<div class=""card mb-4 box-shadow"">
+			<div class=""card-header"">
+				<h4 class=""my-0 font-weight-normal"">Enterprise</h4>
+			</div>
+			<div class=""card-body"">
+				<h1 class=""card-title pricing-card-title"">$29 <small class=""text-muted"">/ mo</small></h1>
+				<ul class=""list-unstyled mt-3 mb-4"">
+					<li>30 users included</li>
+					<li>15 GB of storage</li>
+					<li>Phone and email support</li>
+					<li>Help center access</li>
+				</ul>
+				<button type=""button"" class=""btn btn-lg btn-block btn-primary btn-e"">Contact us</button>
+			</div>
+		</div>
+	</div>
+</div>","","","","2018-05-18 16:53:45","2015-06-27 12:40:09"
+"6","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">サービス2</h1>
+
+<div class=""container"">
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+</div>","","","","2018-05-18 16:53:46","2015-06-27 15:36:22"
+"7","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">サービス3</h1>
+
+<div class=""container"">
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+
+	<p>サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。 サービスの案内文がはいります。サービスの案内文がはいります。サービスの案内文がはいります。</p>
+</div>","","","","2018-05-18 16:53:46","2015-06-27 15:36:53"
+"8","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">Q&A : よくある質問</h1>
+
+<div id=""accordion"">
+  <div class=""card"">
+    <div class=""card-header bg-white"" id=""headingOne"">
+      <h5 class=""mb-0"">
+        <button class=""btn btn-link"" data-toggle=""collapse"" data-target=""#collapseOne"" aria-expanded=""true"" aria-controls=""collapseOne"">
+          Collapsible Group Item #1
+        </button>
+      </h5>
+    </div>
+    <div id=""collapseOne"" class=""collapse"" aria-labelledby=""headingOne"" data-parent=""#accordion"">
+      <div class=""card-body"">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+  <div class=""card"">
+    <div class=""card-header bg-white"" id=""headingTwo"">
+      <h5 class=""mb-0"">
+        <button class=""btn btn-link collapsed"" data-toggle=""collapse"" data-target=""#collapseTwo"" aria-expanded=""false"" aria-controls=""collapseTwo"">
+          Collapsible Group Item #2
+        </button>
+      </h5>
+    </div>
+    <div id=""collapseTwo"" class=""collapse"" aria-labelledby=""headingTwo"" data-parent=""#accordion"">
+      <div class=""card-body"">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+  <div class=""card"">
+    <div class=""card-header bg-white"" id=""headingThree"">
+      <h5 class=""mb-0"">
+        <button class=""btn btn-link collapsed"" data-toggle=""collapse"" data-target=""#collapseThree"" aria-expanded=""false"" aria-controls=""collapseThree"">
+          Collapsible Group Item #3
+        </button>
+      </h5>
+    </div>
+    <div id=""collapseThree"" class=""collapse"" aria-labelledby=""headingThree"" data-parent=""#accordion"">
+      <div class=""card-body"">
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      </div>
+    </div>
+  </div>
+</div>","","","","2018-05-18 16:53:45","2018-04-30 17:02:45"
+"9","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">利用規約</h1>
+<small>
+<p>20__年__月__日</p>
+<p>
+この利用規約（以下，「本規約」といいます。）は，________（以下，「当社」といいます。）がこのウェブサイト上で提供するサービス（以下，「本サービス」といいます。）の利用条件を定めるものです。登録ユーザーの皆さま（以下，「ユーザー」といいます。）には，本規約に従って，本サービスをご利用いただきます。
+</p>
+
+<h6>第1条（適用）</h6>
+<p>
+本規約は，ユーザーと当社との間の本サービスの利用に関わる一切の関係に適用されるものとします。
+</p>
+
+<h6>第2条（利用登録）</h6>
+<p>
+<ol>
+<li>登録希望者が当社の定める方法によって利用登録を申請し，当社がこれを承認することによって，利用登録が完了するものとします。</li>
+<li>当社は，利用登録の申請者に以下の事由があると判断した場合，利用登録の申請を承認しないことがあり，その理由については一切の開示義務を負わないものとします。
+<ol>
+<li>利用登録の申請に際して虚偽の事項を届け出た場合</li>
+<li>規約に違反したことがある者からの申請である場合</li>
+<li>その他，当社が利用登録を相当でないと判断した場合</li>
+</ol>
+</li>
+</ol>
+</p>
+
+<h6>第3条（ユーザーIDおよびパスワードの管理）</h6>
+<p>
+<ol>
+<li>ユーザーは，自己の責任において，本サービスのユーザーIDおよびパスワードを管理するものとします。</li>
+<li>ユーザーは，いかなる場合にも，ユーザーIDおよびパスワードを第三者に譲渡または貸与することはできません。当社は，ユーザーIDとパスワードの組み合わせが登録情報と一致してログインされた場合には，そのユーザーIDを登録しているユーザー自身による利用とみなします。</li>
+</ol>
+</p>
+
+<h6>第4条（利用料金および支払方法）</h6>
+<p>
+ユーザーは，本サービス利用の対価として，当社が別途定め，本ウェブサイトに表示する利用料金を，当社が指定する方法により支払うものとします。
+</p>
+
+<h6>第5条（禁止事項）</h6>
+<p>ユーザーは，本サービスの利用にあたり，以下の行為をしてはなりません。
+<ol>
+<li>法令または公序良俗に違反する行為</li>
+<li>犯罪行為に関連する行為</li>
+<li>当社のサーバーまたはネットワークの機能を破壊したり，妨害したりする行為</li>
+<li>当社のサービスの運営を妨害するおそれのある行為</li>
+<li>他のユーザーに関する個人情報等を収集または蓄積する行為</li>
+<li>他のユーザーに成りすます行為</li>
+<li>社のサービスに関連して，反社会的勢力に対して直接または間接に利益を供与する行為</li>
+<li>その他，当社が不適切と判断する行為</li>
+</ol>
+</p>
+
+<h6>第6条（本サービスの提供の停止等）</h6>
+<p>
+<ol>
+<li>当社は，以下のいずれかの事由があると判断した場合，ユーザーに事前に通知することなく本サービスの全部または一部の提供を停止または中断することができるものとします。
+<ol>
+<li>本サービスにかかるコンピュータシステムの保守点検または更新を行う場合</li>
+<li>地震，落雷，火災，停電または天災などの不可抗力により，本サービスの提供が困難となった場合</li>
+<li>コンピュータまたは通信回線等が事故により停止した場合</li>
+<li>その他，当社が本サービスの提供が困難と判断した場合</li>
+</ol>
+</li>
+<li>当社は，本サービスの提供の停止または中断により，ユーザーまたは第三者が被ったいかなる不利益または損害について，理由を問わず一切の責任を負わないものとします。</li>
+</ol>
+</p>
+
+<h6>第7条（利用制限および登録抹消）</h6>
+<p>
+<ol>
+<li>当社は，以下の場合には，事前の通知なく，ユーザーに対して，本サービスの全部もしくは一部の利用を制限し，またはユーザーとしての登録を抹消することができるものとします。
+<ol>
+<li>本規約のいずれかの条項に違反した場合</li>
+<li>登録事項に虚偽の事実があることが判明した場合</li>
+<li>その他，当社が本サービスの利用を適当でないと判断した場合</li>
+</ol>
+</li>
+<li>当社は，本条に基づき当社が行った行為によりユーザーに生じた損害について，一切の責任を負いません。</li>
+</ol>
+</p>
+
+<h6>第8条（免責事項）</h6>
+<p>
+<ol>
+<li>当社の債務不履行責任は，当社の故意または重過失によらない場合には免責されるものとします。</li>
+<li>当社は，何らかの理由によって責任を負う場合にも，通常生じうる損害の範囲内かつ有料サービスにおいては代金額（継続的サービスの場合には1か月分相当額）の範囲内においてのみ賠償の責任を負うものとします。</li>
+<li>当社は，本サービスに関して，ユーザーと他のユーザーまたは第三者との間において生じた取引，連絡または紛争等について一切責任を負いません。</li>
+</ol>
+</p>
+
+<h6>第9条（サービス内容の変更等）</h6>
+<p>
+当社は，ユーザーに通知することなく，本サービスの内容を変更しまたは本サービスの提供を中止することができるものとし，これによってユーザーに生じた損害について一切の責任を負いません。
+</p>
+
+<h6>第10条（利用規約の変更）</h6>
+<p>
+当社は，必要と判断した場合には，ユーザーに通知することなくいつでも本規約を変更することができるものとします。
+</p>
+
+<h6>第11条（通知または連絡）</h6>
+<p>
+ユーザーと当社との間の通知または連絡は，当社の定める方法によって行うものとします。
+</p>
+
+<h6>第12条（権利義務の譲渡の禁止）</h6>
+<p>
+ユーザーは，当社の書面による事前の承諾なく，利用契約上の地位または本規約に基づく権利もしくは義務を第三者に譲渡し，または担保に供することはできません。
+</p>
+
+<h6>第13条（準拠法・裁判管轄）</h6>
+<p>
+<ol>
+<li>本規約の解釈にあたっては，日本法を準拠法とします。</li>
+<li>本サービスに関して紛争が生じた場合には，当社の本店所在地を管轄する裁判所を専属的合意管轄とします。</li>
+</ol>
+</p>
+<p>以上</p>
+</small>","","","","2018-05-18 16:53:45","2018-05-14 17:19:25"
+"10","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">事業概要</h1>
+
+<div class=""container"">
+<small>
+<table class=""table"">
+	<tbody>
+		<tr>
+			<th>事業者名</th>
+			<td>____</td>
+		</tr>
+		<tr>
+			<th>代表者</th>
+			<td>____</td>
+		</tr>
+		<tr>
+			<th>事業所所在地</th>
+			<td>____</td>
+		</tr>
+		<tr>
+			<th>事業内容</th>
+			<td>____</td>
+		</tr>
+		<tr>
+			<th>連絡先</th>
+			<td>____</td>
+		</tr>
+	</tbody>
+</table>
+</small>
+</div>","","","","2018-05-18 16:53:44","2018-05-14 17:28:01"
+"11","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">プライバシーポリシー</h1>
+
+<small>
+<p>2018年4月17日</p>
+
+<p>____が提供するWEBサービス（以下、WEBサービス）では、お客様が安心してサービスを利用できるよう以下に定めた プライバシーポリシーに基づいた個人情報管理を実施致します。</p>
+
+<h6>個人情報の定義</h6>
+
+<p>個人情報とは、当該本人に関する全ての情報（私生活に関するものには限られない）であって、かつ具体的に特定の当該本人の氏名、連絡先もしくは住所等の明らかとなる事項（識別情報）の事であるとします。</p>
+
+<h6>利用目的</h6>
+
+<p>WEBサービスは以下のような目的でお客様の個人情報を収集、利用させていただきます。</p>
+
+<ul>
+<li>ご注文いただいた商品の配送をおこなうため</li>
+<li>商品やサービスに対するご意見やご感想をおうかがいするため</li>
+<li>キャンペーンや商品・サービスのご案内をするため</li>
+<li>お客様からのお問い合わせにお答えするため</li>
+<li>ニュースレターをお届けするため</li>
+</ul>
+
+<h6>個人情報利用の制限</h6>
+
+<p>WEBサービスは、あらかじめ本人の同意を得ず、前項で定めた利用目的の達成に必要な範囲を超えて個人情報を利用することはありません。 合併その他の事由により他の個人情報取扱事業者から事業を承継することに伴って個人情報を取得した場合において、あらかじめ本人の同意を得ないで、承継前における当該個人情報の利用目的の達成に必要な範囲を超えて、当該個人情報を取り扱うことはありません。 ただし、以下の場合はこの限りではありません。</p>
+
+<ol>
+<li>法令に基づく場合</li>
+<li>人の生命、身体又は財産の保護のために必要がある場合であって、本人の同意を得ることが困難であるとき</li>
+<li>公衆衛生の向上又は児童の健全な育成の推進のために特に必要がある場合であって、本人の同意を得ることが困難であるとき</li>
+<li>国の機関若しくは地方公共団体又はその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、本人の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがあるとき</li>
+</ol>
+
+<h6>個人情報の第三者への提供</h6>
+
+<p>WEBサービスはあらかじめ本人の同意を得ないで、個人データを第三者に提供しません。ただし、以下の場合を除きます。</p>
+
+<ol>
+<li>法令に基づく場合</li>
+<li>人の生命、身体又は財産の保護のために必要がある場合であって、本人の同意を得ることが困難であるとき</li>
+<li>公衆衛生の向上又は児童の健全な育成の推進のために特に必要がある場合であって、本人の同意を得ることが困難であるとき</li>
+<li>国の機関若しくは地方公共団体又はその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、本人の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがあるとき</li>
+<li>ご注文頂いた商品やキャンペーンなどのプレゼントを配送するために配送業者に業務を依頼するとき</li>
+</ol>
+
+<h6>個人情報の適正な取得</h6>
+
+<p>WEBサービスは適正な手段で個人情報を取得します。偽り、その他不正な手段により取得をすることはありません。</p>
+
+<h6>個人情報の安全管理</h6>
+
+<p>WEBサービスでは個人情報の漏洩、不正使用の予防に努めています。また、個人情報をご提供頂く際には、第三者による不正なアクセスへの備えとして、適切かつ合理的な対策を実施し、安全性の確保に努めます。</p>
+
+<h6>個人情報の委託</h6>
+
+<p>WEBサービスはお客様への商品の発送や新商品・サービスのご案内などのために、業務上の必要性に応じて、お客様の個人情報を外部に委託する場合があります。外部の委託先に対しては、個人情報の取り扱いに関する安全性の確認、秘密保持契約の締結等、適切な管理を行っております。</p>
+
+<h6>個人情報利用目的の通知</h6>
+
+<p>WEBサービスは個人情報を取得する場合はあらかじめ、利用目的を公表します。また、利用目的を変更した場合は、変更された利用目的について、すみやかに公表します。ただし、以下の場合を除きます。</p>
+
+<ol>
+<li>利用目的を本人に通知し、又は公表することにより本人又は第三者の生命、身体、財産その他の権利利益を害するおそれがある場合</li>
+<li>利用目的を本人に通知し、又は公表することにより当該個人情報取扱事業者の権利又は正当な利益を害するおそれがある場合</li>
+<li>国の機関又は地方公共団体が法令の定める事務を遂行することに対して協力する必要がある場合であって、利用目的を本人に通知し、又は公表することにより当該事務の遂行に支障を及ぼすおそれがあるとき</li>
+<li>取得の状況からみて利用目的が明らかであると認められる場合</li>
+</ol>
+
+<h6>個人情報の開示</h6>
+
+<p>WEBサービスは本人から個人情報の開示を求められた場合は速やかに個人情報を開示します。 ただし、以下の場合を除きます。</p>
+
+<ol>
+<li>本人又は第三者の生命、身体、財産その他の権利利益を害するおそれがある場合</li>
+<li>当該個人情報取扱事業者の業務の適正な実施に著しい支障を及ぼすおそれがある場合</li>
+<li>他の法令に違反することとなる場合</li>
+</ol>
+
+<h6>個人情報の訂正</h6>
+
+<p>WEBサービスは、本人からWEBサービスが保有している個人情報が真実でないとして、訂正を求められた場合は、必要な調査を実施のうえ、その結果に基づき個人情報の訂正を行い、訂正を実施したことを速やかに本人に通知します。</p>
+
+<h6>個人情報の利用停止</h6>
+
+<p>WEBサービスは本人から、個人情報WEBサービスの定める利用目的の範囲を超えて取り扱われている、もしくは不正な手段によって取得されたという理由により、当該個人情報の利用停止もしくは消去を求められた場合は、速やかに必要な調査を実施のうえ、利用を停止するかどうかを本人に通知します。 ただし、当該保有個人データの利用停止等に多額の費用を要する場合やその他の利用停止等を行うことが困難な場合であって、本人の権利利益を保護するため必要なこれに代わるべき措置をとるときは、この限りではありません。</p>
+
+<h6>クッキーについて</h6>
+
+<p>クッキー及びIPアドレスは、個人を特定できるものとは認識しておりません。またWEBサービスWebサイトではクッキーを利用したサービス提供は行っておりません。</p>
+
+<h6>個人情報に関するお問い合わせ</h6>
+
+<p>個人情報に関するお問い合わせは以下宛先までお願いいたします。</p>
+
+<p>〒___-____<br />
+東京都____________<br />
+____ビル _____<br />
+E-mail：info@____.___</p>
+
+<h6>プライバシーポリシーの変更及び通知</h6>
+WEBサービスは法令等の変更など必要に応じて当プライバシーポリシーを、事前の予告なく変更することがあります。WEBサービスWebサイトを利用の際には本ページの最新版をご利用ください。
+
+</small>","","","","2018-05-18 16:53:45","2018-05-14 17:31:36"
+"12","<h1 class=""h5 border-bottom py-3 mb-4 mb-md-5 text-secondary"">特定商取引法に基づく表記</h1>
+
+<div class=""container"">
+<small>
+	<table class=""table"">
+	<tbody>
+	<tr>
+		<th>サービス名</th>
+		<td>____</td>
+	</tr>
+	<tr>
+		<th>販売業者</th>
+		<td>____</td>
+	</tr>
+	<tr>
+		<th>販売責任者</th>
+		<td>__ __</td>
+	</tr>
+	<tr>
+		<th>所在地</th>
+		<td>〒___-____　___________________________</td>
+	</tr>
+	<tr>
+		<th>電話番号</th>
+		<td>__-____-____</td>
+	</tr>
+	<tr>
+		<th>公開メールアドレス</th>
+		<td>info@___.___</td>
+	</tr>
+	<tr>
+		<th>ホームページアドレス</th>
+		<td>http://___.____</td>
+	</tr>
+	<tr>
+		<th>販売数量</th>
+		<td>ポイント制（1ポイント=1円)</td>
+	</tr>
+	<tr>
+		<th>価格</th>
+		<td>Basicプラン __円</td>
+	</tr>
+	<tr>
+	<th>ポイントの有効期限</th>
+		<td>購入から6ヶ月<br />
+		先に購入したポイントから順に消化され、追加購入があっても先に購入されたポイントの有効期限は延長されません。</td>
+	</tr>
+	<tr>
+		<th>ポイントの利用</th>
+		<td>発行するポイントはサービス利用に限られます。</td>
+	</tr>
+	<tr>
+		<th>返品・交換・キャンセル等</th>
+		<td>返品・交換・キャンセル等はお受けいたしかねます。途中解約による返金は承っておりません。<br />
+		尚、当サービスに欠陥があった場合は、速やかにポイントを補填いたします。</td>
+	</tr>
+	<tr>
+		<th>引渡し時期</th>
+		<td>即日。</td>
+	</tr>
+	<tr>
+		<th>お支払方法</th>
+		<td>・クレジットカード</td>
+	</tr>
+	<tr>
+		<th>代金の支払い時期および方法</th>
+		<td>ポイント購入時。</td>
+	</tr>
+	<tr>
+		<th>商品代金以外の必要料金</th>
+		<td>・当サービスへの通信料・通話料</td>
+	</tr>
+	</tbody>
+	</table>
+</small>
+</div>","","","","2018-05-18 16:53:45","2018-05-14 17:33:24"
