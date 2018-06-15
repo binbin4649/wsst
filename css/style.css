@@ -36,8 +36,8 @@ html {
 .jumbotron-extend {
 	position: relative;
 	background: 
-		url(/app/webroot/theme/wss/img/model-1.png) center bottom no-repeat,
-		url(/app/webroot/theme/wss/img/bath-2.jpg) center center no-repeat;
+		url(/app/webroot/theme/wsst/img/model-1.png) center bottom no-repeat,
+		url(/app/webroot/theme/wsst/img/bath-2.jpg) center center no-repeat;
     background-size: 65vh, cover;
     height: 65vh;
     min-height: 300px;

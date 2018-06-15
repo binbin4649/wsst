@@ -1,5 +1,5 @@
 <?php
-$title = 'wss';
-$description = 'web service skelton.';
+$title = 'wsst';
+$description = 'web service skelton theme.';
 $author = 'dubmilli LLC.';
 $url = 'https://dubmilli.com/';
