@@ -34,13 +34,12 @@ html {
 /* WWST */
 
 .jumbotron-extend {
-	position: relative;
+	
 	background: 
-		url(/app/webroot/theme/wsst/img/model-1.png) center bottom no-repeat,
-		url(/app/webroot/theme/wsst/img/bath-2.jpg) center center no-repeat;
-    background-size: 65vh, cover;
+		url(/app/webroot/theme/wsst/img/top_img3.png) center center no-repeat;
+    background-size: cover;
     height: 65vh;
-    min-height: 300px;
+    
 }
 
 .btn-e {
@@ -61,6 +60,7 @@ html {
 	font-size: 3.4rem;
     font-weight: 300;
     line-height: 1.1;
+    color: white;
 }
 
 .font09 {

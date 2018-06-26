@@ -31,8 +31,8 @@
 	<?php if ($this->BcBaser->isHome()): ?>
 		<div class="jumbotron jumbotron-extend">
 			<div class="text-center">
-			    <h4 class="display-4 top-title">Good Morning!</h4>
-			    <p class="lead">Have a nice day!</p>
+			    <h4 class="display-4 top-title">Good Job!</h4>
+			    <p class="lead text-white">nice work!</p>
 			</div>
 			
 		</div>
