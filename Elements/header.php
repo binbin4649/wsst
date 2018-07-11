@@ -37,7 +37,9 @@
 		</div>
 	</div>
 	<div class="col-5">
-		<a class="btn btn-outline-secondary btn-block btn-e" href="/members/mypages/" role="button">マイページ</a>
+		<a class="btn btn-outline-secondary btn-block btn-e" href="/members/mypages/" role="button">
+			<span class="narrow-size">マイページ</span>
+		</a>
 	</div>
 </div>
 </div>
