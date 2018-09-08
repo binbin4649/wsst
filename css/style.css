@@ -46,6 +46,12 @@ html {
 	border-radius: 0;
 }
 
+.btn-w {
+	white-space: normal;
+	text-align: left;
+	padding: 0;
+}
+
 .btn-black {
     border-radius: 0;
     background-color: #000;
