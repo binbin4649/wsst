@@ -32,7 +32,7 @@ if(!isset($currentId)) {
 			  	$liClass .= ' active';
 		  	}
 		  	if(!empty($content['Content']['blank_link'])) {
-				$options = ['target' => '_blank'];
+				$options = ['class' => 'nav-link', 'target' => '_blank'];
 			}
 	  	?>
   		<li class="<?php echo $liClass ?>">
